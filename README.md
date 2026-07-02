@@ -5,17 +5,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FF2E88&center=true&vCenter=true&width=600&height=80&lines=HEY%2C+I'M+PRASANTH+S;STUDENT+%7C+BUILDER+%7C+EXPLORER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FFB86C&center=true&vCenter=true&width=600&height=80&lines=HEY%2C+I'M+PRASANTH+S;STUDENT+%7C+BUILDER+%7C+EXPLORER" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=prasanthmax&label=Profile+Views&color=FF2E88&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=prasanthmax&label=Profile+Views&color=FFB86C&style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/prasanthmax?label=Followers&style=flat-square&color=00E5FF&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/prasanthmax?label=Followers&style=flat-square&color=C792EA&labelColor=0d1117" />
 
 </div>
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
 
 <div align="center">
 
@@ -24,34 +24,40 @@
 
 </div>
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
 
 ## 👾 About Me
 
 ```
 
-       _nnnn_                      prasanth@linux
-      dGGGGMMb                     --------------
-     @p~qp~~qMb                    OS: Student-Developer Edition x86_64
-     M|@||@) M|                    Host: Full Stack / ML / Networks
-     @,----.JM|                    Kernel: always-learning 6.9-lts
-    JS^\__/  qKL                   Uptime: since day one
-   dZP        qKRb                 Shell: bash + curiosity
-  dZP          qKKb                Location: India 🇮🇳
- fZP            SMMb               Focus: things that matter, built by breaking things
- HZM            MMMM               Tinkering: n8n, AI workflows, automation
- FqM            MMMM               Playground: Linux, Networks
-__| ".        |\dS"qML             Status: open to collabs & open source
-|    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMP|   .'
-     `-'       `--'
+prasanth@linux:~$ whoami
+Prasanth S
+
+prasanth@linux:~$ cat role.txt
+🎓 Student & Aspiring Developer
+
+prasanth@linux:~$ cat location.txt
+📍 India
+
+prasanth@linux:~$ ls ~/currently-exploring/
+Full-Stack/   ML-AI/   Networks/   Linux/   Automation/
+
+prasanth@linux:~$ cat interests.log
+🔧 Diving deep — from network layers to ML pipelines
+🤖 Tinkering with n8n, AI workflows & automation
+🐧 Linux is my playground. Networks are my puzzle.
+💡 Learning by doing — every project teaches something new
+
+prasanth@linux:~$ cat status.txt
+✅ Open to collabs, open source & cool ideas
+
+prasanth@linux:~$ _
 
 ```
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
 
-## 🕹️ Tech Stack & Tools
+## 🎮 Tech Stack & Tools
 
 <div align="center">
 
@@ -90,30 +96,30 @@ _)      \.___.,|     .'
 
 </div>
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasanthmax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF2E88&icon_color=00E5FF&text_color=E6EDF3" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthmax&theme=tokyonight&hide_border=true&background=0d1117&ring=FF2E88&fire=00E5FF&currStreakLabel=FF2E88" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasanthmax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=FFB86C&icon_color=C792EA&text_color=FFE9C7" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthmax&theme=tokyonight&hide_border=true&background=0d1117&ring=FFB86C&fire=C792EA&currStreakLabel=FFB86C" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthmax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF2E88&text_color=E6EDF3" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthmax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB86C&text_color=FFE9C7" />
 
 </div>
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanthmax&bg_color=0d1117&color=00E5FF&line=FF2E88&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanthmax&bg_color=0d1117&color=C792EA&line=FFB86C&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
+<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
 
 ## 🤝 Connect With Me
 
@@ -130,7 +136,7 @@ _)      \.___.,|     .'
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FF2E88,100:00E5FF&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:C792EA,100:FFB86C&height=120&section=footer&animation=fadeIn" />
 
 <sub>⭐ If something here sparked your interest — star a repo. It means the world. ⭐</sub>
 
