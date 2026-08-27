@@ -1,134 +1,164 @@
 <div align="center">
 
-<!-- Animated GIF Header Banner -->
-<img width="100%" src="https://raw.githubusercontent.com/prasanthmax/prasanthmax/main/header.gif" alt="Cozy Dev Setup" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FFB86C&center=true&vCenter=true&width=600&height=80&lines=HEY%2C+I'M+PRASANTH+S;STUDENT+%7C+BUILDER+%7C+EXPLORER" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=prasanthmax&label=Profile+Views&color=FFB86C&style=flat-square" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/prasanthmax?label=Followers&style=flat-square&color=C792EA&labelColor=0d1117" />
-
-</div>
-
-<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
-
-<div align="center">
-
-### 🔥 *"If you are so sure — BURN THE SHIPS."*
-> No fallback. No retreat. Just build.
-
-</div>
-
-<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
-
-## 👾 About Me
-
+```
+$ neofetch
 ```
 
-prasanth@linux:~$ whoami
-Prasanth S
-
-prasanth@linux:~$ cat role.txt
-🎓 Student & Aspiring Developer
-
-prasanth@linux:~$ cat location.txt
-📍 India
-
-prasanth@linux:~$ ls ~/currently-exploring/
-Full-Stack/   ML-AI/   Networks/   Linux/   Automation/
-
-prasanth@linux:~$ cat interests.log
-🔧 Diving deep — from network layers to ML pipelines
-🤖 Tinkering with n8n, AI workflows & automation
-🐧 Linux is my playground. Networks are my puzzle.
-💡 Learning by doing — every project teaches something new
-
-prasanth@linux:~$ cat status.txt
-✅ Open to collabs, open source & cool ideas
-
-prasanth@linux:~$ _
+<table>
+<tr>
+<td>
 
 ```
+     .---.
+    /     \
+    \.@-@./
+    /`\_/`\
+   //  _  \\
+  | \     )|_
+ /`\_`>  <_/ \
+ \__/'---'\__/
+```
 
-<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
+</td>
+<td valign="top">
 
-## 🎮 Tech Stack & Tools
+`prasanth@github`
+```
+-----------------
+OS      : Student OS 24.04 LTS
+Role    : Full Stack / ML Dev
+Uptime  : 3+ yrs building
+Shell   : bash, curiosity-driven
+Stack   : Python, JS, Linux
+Status  : open to collabs
+```
 
-<div align="center">
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### 🤖 ML / AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### 🔁 Automation & DevOps
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-### 🐧 Networks & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-### 📊 Data & Analytics
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+</td>
+</tr>
+</table>
 
 </div>
 
-<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
-
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=33FF66&background=00000000&center=true&vCenter=true&width=600&lines=whoami+%3E+Prasanth+S;status+%3D+building+in+public;burn+the+ships.+no+fallback." alt="typing" />
+</p>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasanthmax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=FFB86C&icon_color=C792EA&text_color=FFE9C7" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthmax&theme=tokyonight&hide_border=true&background=0d1117&ring=FFB86C&fire=C792EA&currStreakLabel=FFB86C" />
+`$ cat status.txt`
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthmax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB86C&text_color=FFE9C7" />
+**"IF YOU ARE SO SURE — BURN THE SHIPS."**
+*no fallback. no retreat. just build.*
 
 </div>
 
-<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
+---
 
-## 📈 Contribution Graph
+## `$ whoami`
+
+```yaml
+name     : Prasanth S
+role     : Student & Aspiring Full Stack / ML Developer
+location : India
+focus    : Full Stack, ML/AI, Systems, Databases
+mindset  : Learn by building. Break it. Understand it. Rebuild it.
+available: open to collabs, open source & good ideas
+```
+
+---
+
+## `$ ls stack/`
+
+<table>
+<tr><td valign="top" width="50%">
+
+**🌐 frontend/**
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=33FF66)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=33FF66)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=33FF66)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=33FF66)
+
+**⚙️ backend_&_apis/**
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=33FF66)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=33FF66)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=33FF66)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=33FF66)
+![REST](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=33FF66)
+
+**🤖 ml_ai/**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=33FF66)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=33FF66)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=33FF66)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=33FF66)
+
+</td><td valign="top" width="50%">
+
+**🗄️ databases/**
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=33FF66)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=33FF66)
+
+**🐧 languages_&_systems/**
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=33FF66)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=33FF66)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=33FF66)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=33FF66)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=33FF66)
+
+**📊 data_&_analytics/**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=33FF66)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=33FF66)
+
+**🔧 tools_&_version_control/**
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=33FF66)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=33FF66)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=33FF66)
+
+</td></tr>
+</table>
+
+---
+
+## `$ cat github_stats.log`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanthmax&bg_color=0d1117&color=C792EA&line=FFB86C&point=ffffff&area=true&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasanthmax&show_icons=true&hide_border=true&count_private=true&bg_color=0A0F0A&title_color=33FF66&icon_color=33FF66&text_color=6DFFA0&border_color=235C2F" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthmax&hide_border=true&background=0A0F0A&ring=33FF66&fire=33FF66&currStreakLabel=33FF66&sideLabels=6DFFA0&currStreakNum=6DFFA0&sideNums=6DFFA0&dates=1F8F43&border=235C2F" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthmax&layout=compact&hide_border=true&bg_color=0A0F0A&title_color=33FF66&text_color=6DFFA0&border_color=235C2F" />
 
 </div>
 
-<p align="center">░▒▓████████████████████████████████████████████████▓▒░</p>
+---
 
-## 🤝 Connect With Me
+## `$ cat contribution_graph.log`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanth-shanmugam-b9b84b23b/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prasanth727pdm@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasanthmax)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prasanthmax&bg_color=0A0F0A&color=33FF66&line=33FF66&point=FFFFFF&area=true&hide_border=true&border_color=235C2F" />
+
+</div>
+
+---
+
+## `$ cat trophies.log`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prasanthmax&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
+## `$ ./connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=33FF66)](https://www.linkedin.com/in/prasanth-shanmugam-b9b84b23b/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=33FF66)](mailto:prasanth727pdm@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=33FF66)](https://instagram.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=33FF66)](https://github.com/prasanthmax)
 
 </div>
 
@@ -136,8 +166,8 @@ prasanth@linux:~$ _
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:C792EA,100:FFB86C&height=120&section=footer&animation=fadeIn" />
+<img src="https://komarev.com/ghpvc/?username=prasanthmax&label=visitors&color=000000&style=flat-square&labelColor=000000" alt="Profile Views" />
 
-<sub>⭐ If something here sparked your interest — star a repo. It means the world. ⭐</sub>
+<sub>`process exited with code 0` — thanks for stopping by.</sub>
 
 </div>
