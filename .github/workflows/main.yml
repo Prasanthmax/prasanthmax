@@ -1,0 +1,24 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs daily
+  push:
+    branches:
+      - main
+  workflow_dispatch:       # lets you run it manually too
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate github-profile-summary-cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          github_user: Prasanthmax
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin: gtrophy, stats, langs, activity
+          plugin_gtrophy_no_frame: true
+          plugin_gtrophy_no_bg: true
+          plugin_gtrophy_theme: algolia
+          plugin_activity_days: 61
