@@ -16,7 +16,7 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           github_user: Prasanthmax
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT_TOKEN }}
           plugin: gtrophy, stats, langs, activity
           plugin_gtrophy_no_frame: true
           plugin_gtrophy_no_bg: true
