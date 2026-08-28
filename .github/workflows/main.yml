@@ -8,15 +8,19 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Generate github-profile-summary-cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         with:
           github_user: Prasanthmax
-          github_token: ${{ secrets.PAT_TOKEN }}
           plugin: gtrophy, stats, langs, activity
           plugin_gtrophy_no_frame: true
           plugin_gtrophy_no_bg: true
