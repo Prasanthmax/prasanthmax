@@ -8,27 +8,27 @@
 
 <br><br>
 
-### "IF YOU ARE SO SURE — BURN THE SHIPS."
-**No fallback. No retreat. Just build.**
+## "IF YOU ARE SO SURE — BURN THE SHIPS."
+### No fallback. No retreat. Just build.
 
 </div>
 
 <br>
 
-## ▌ DEVELOPER PROFILE
+# ▌ DEVELOPER PROFILE
 
 <div align="center">
 
-![Name](https://img.shields.io/badge/NAME-PRASANTH_S-FFDE59?style=flat-square&labelColor=000000)
-![Goal](https://img.shields.io/badge/GOAL-SDE_%2F_ML_ENGINEER-4D96FF?style=flat-square&labelColor=000000)
-![Location](https://img.shields.io/badge/LOCATION-INDIA-6BCB77?style=flat-square&labelColor=000000)
-![Style](https://img.shields.io/badge/STYLE-SOLO_BUILDER-FF6B6B?style=flat-square&labelColor=000000)
+![Name](https://img.shields.io/badge/NAME-PRASANTH_S-FFDE59?style=for-the-badge&labelColor=000000)
+![Goal](https://img.shields.io/badge/GOAL-SDE_%2F_ML_ENGINEER-4D96FF?style=for-the-badge&labelColor=000000)
+![Location](https://img.shields.io/badge/LOCATION-INDIA-6BCB77?style=for-the-badge&labelColor=000000)
+![Style](https://img.shields.io/badge/STYLE-SOLO_BUILDER-FF6B6B?style=for-the-badge&labelColor=000000)
 
 </div>
 
 <br>
 
-## ▌ TECH STACK
+# ▌ TECH STACK
 
 <div align="center">
 
@@ -85,11 +85,11 @@
 
 <br>
 
-## ▌ LIVE METRICS
+# ▌ LIVE METRICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prasanthmax&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFDE59&icon_color=FF6B6B&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prasanthmax&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFDE59&icon_color=FF6B6B&text_color=c9d1d9" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=Prasanthmax&hide_border=true&background=0d1117&ring=FFDE59&fire=FF6B6B&currStreakLabel=FFDE59&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
 
 <br>
@@ -100,31 +100,21 @@
 
 <br>
 
-## ▌ CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-cards/activity-graph.svg" alt="Contribution Activity Graph" />
-
-</div>
-
-<br>
-
-## ▌ CONTRIBUTION SNAKE
+# ▌ CONTRIBUTION GRAPH
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 <br>
 
-## ▌ CONNECT
+# ▌ CONNECT
 
 <div align="center">
 
