@@ -4,168 +4,140 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=900&color=000000&background=FFDE59&center=true&vCenter=true&width=650&height=60&lines=WHOAMI+%3E+PRASANTH+S;FULL+STACK+%2B+ML+DEVELOPER;BURN+THE+SHIPS.+NO+FALLBACK." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=900&color=000000&background=FFDE59&center=true&vCenter=true&width=650&height=60&lines=WHOAMI+%3E+PRASANTH+S;FULL+STACK+%2B+ML+DEVELOPER;STATUS+%3D+SHIPPING+PRODUCTION+CODE." alt="Typing SVG" />
+
+<br><br>
+
+### "IF YOU ARE SO SURE — BURN THE SHIPS."
+**No fallback. No retreat. Just build.**
 
 </div>
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="center" style="border:4px solid #000; background:#FFDE59; padding:16px;">
-
-### "IF YOU ARE SO SURE — BURN THE SHIPS."
-**No fallback. No retreat. Just build.**
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## ▌ DEVELOPER PROFILE
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" style="border:4px solid #000; padding:14px; background:#FF6B6B;">
+<div align="center">
 
-**NAME**
-Prasanth S
+![Name](https://img.shields.io/badge/NAME-PRASANTH_S-FFDE59?style=flat-square&labelColor=000000)
+![Goal](https://img.shields.io/badge/GOAL-SDE_%2F_ML_ENGINEER-4D96FF?style=flat-square&labelColor=000000)
+![Location](https://img.shields.io/badge/LOCATION-INDIA-6BCB77?style=flat-square&labelColor=000000)
+![Style](https://img.shields.io/badge/STYLE-SOLO_BUILDER-FF6B6B?style=flat-square&labelColor=000000)
 
-</td>
-<td width="50%" valign="top" style="border:4px solid #000; padding:14px; background:#4D96FF;">
-
-**GOAL**
-SDE / ML & Data Engineer
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="border:4px solid #000; padding:14px; background:#6BCB77;">
-
-**LOCATION**
-India
-
-</td>
-<td width="50%" valign="top" style="border:4px solid #000; padding:14px; background:#FFDE59;">
-
-**STYLE**
-Solo builder — owns the whole stack
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 ## ▌ TECH STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,nodejs,flask,fastapi,mysql,postgres,mongodb,c,cpp,java,linux,bash,git,docker&perline=10" alt="Tech Stack" />
-</p>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%" style="border:4px solid #000; padding:14px;">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,nodejs,flask,fastapi,mysql,postgres,mongodb,c,cpp,java,linux,bash,git,docker&perline=10" alt="Tech Stack" />
 
-**🌐 FRONTEND**
-![HTML5](https://img.shields.io/badge/HTML5-FFDE59?style=for-the-badge&logo=html5&logoColor=000&labelColor=000)
-![CSS3](https://img.shields.io/badge/CSS3-FFDE59?style=for-the-badge&logo=css3&logoColor=000&labelColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFDE59?style=for-the-badge&logo=javascript&logoColor=000&labelColor=000)
-![React](https://img.shields.io/badge/React-FFDE59?style=for-the-badge&logo=react&logoColor=000&labelColor=000)
+<br><br>
 
-**⚙️ BACKEND & APIs**
-![Python](https://img.shields.io/badge/Python-4D96FF?style=for-the-badge&logo=python&logoColor=000&labelColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-4D96FF?style=for-the-badge&logo=nodedotjs&logoColor=000&labelColor=000)
-![Flask](https://img.shields.io/badge/Flask-4D96FF?style=for-the-badge&logo=flask&logoColor=000&labelColor=000)
-![FastAPI](https://img.shields.io/badge/FastAPI-4D96FF?style=for-the-badge&logo=fastapi&logoColor=000&labelColor=000)
+**FRONTEND**
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 
-**🤖 ML / AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=000&labelColor=000)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FF6B6B?style=for-the-badge&logo=scikit-learn&logoColor=000&labelColor=000)
-![Pandas](https://img.shields.io/badge/Pandas-FF6B6B?style=for-the-badge&logo=pandas&logoColor=000&labelColor=000)
-![NumPy](https://img.shields.io/badge/NumPy-FF6B6B?style=for-the-badge&logo=numpy&logoColor=000&labelColor=000)
+**BACKEND & APIs**
+<br>
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
 
-</td>
-<td valign="top" width="50%" style="border:4px solid #000; padding:14px;">
+**ML / AI**
+<br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=013243)
 
-**🗄️ DATABASES**
-![MySQL](https://img.shields.io/badge/MySQL-6BCB77?style=for-the-badge&logo=mysql&logoColor=000&labelColor=000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6BCB77?style=for-the-badge&logo=postgresql&logoColor=000&labelColor=000)
+**DATABASES**
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-**🐧 LANGUAGES & SYSTEMS**
-![C](https://img.shields.io/badge/C-FFDE59?style=for-the-badge&logo=c&logoColor=000&labelColor=000)
-![C++](https://img.shields.io/badge/C++-FFDE59?style=for-the-badge&logo=cplusplus&logoColor=000&labelColor=000)
-![Java](https://img.shields.io/badge/Java-FFDE59?style=for-the-badge&logo=openjdk&logoColor=000&labelColor=000)
-![Linux](https://img.shields.io/badge/Linux-FFDE59?style=for-the-badge&logo=linux&logoColor=000&labelColor=000)
-![Bash](https://img.shields.io/badge/Bash-FFDE59?style=for-the-badge&logo=gnubash&logoColor=000&labelColor=000)
+**LANGUAGES & SYSTEMS**
+<br>
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
-**📊 DATA & ANALYTICS**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-4D96FF?style=for-the-badge&logo=python&logoColor=000&labelColor=000)
-![Jupyter](https://img.shields.io/badge/Jupyter-4D96FF?style=for-the-badge&logo=jupyter&logoColor=000&labelColor=000)
+**DATA & ANALYTICS**
+<br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=11557C)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
 
-**🔧 TOOLS**
-![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=000&labelColor=000)
-![GitHub](https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=000&labelColor=000)
-![Docker](https://img.shields.io/badge/Docker-FF6B6B?style=for-the-badge&logo=docker&logoColor=000&labelColor=000)
+**TOOLS**
+<br>
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 ## ▌ LIVE METRICS
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prasanthmax&show_icons=true&count_private=true&hide_border=false&border_color=000000&border_radius=0&bg_color=FFDE59&title_color=000000&icon_color=000000&text_color=000000" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Prasanthmax&border=000000&background=FF6B6B&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000&border_radius=0" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanthmax&layout=compact&hide_border=false&border_color=000000&border_radius=0&bg_color=4D96FF&title_color=000000&text_color=000000" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prasanthmax&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFDE59&icon_color=FF6B6B&text_color=c9d1d9" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Prasanthmax&hide_border=true&background=0d1117&ring=FFDE59&fire=FF6B6B&currStreakLabel=FFDE59&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+
+<br>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanthmax&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFDE59&text_color=c9d1d9" />
+
+</div>
 
 <br>
 
 ## ▌ CONTRIBUTION GRAPH
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanthmax&bg_color=6BCB77&color=000000&line=000000&point=FFFFFF&area=true&hide_border=false&border_color=000000" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-cards/activity-graph.svg" alt="Contribution Activity Graph" />
+
+</div>
 
 <br>
 
 ## ▌ CONTRIBUTION SNAKE
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
 
 <br>
 
 ## ▌ CONNECT
 
-<p align="center">
-  <a href="https://github.com/Prasanthmax">
-    <img src="https://img.shields.io/badge/GITHUB-FFDE59?style=for-the-badge&logo=github&logoColor=000&labelColor=000" />
-  </a>
-  <a href="https://www.linkedin.com/in/prasanth-shanmugam-b9b84b23b/">
-    <img src="https://img.shields.io/badge/LINKEDIN-4D96FF?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=000" />
-  </a>
-  <a href="mailto:prasanth727pdm@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=000&labelColor=000" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prasanthmax&label=SYSTEM+VISITS&color=6BCB77&style=for-the-badge&labelColor=000000" />
-</p>
+[![GitHub](https://img.shields.io/badge/GITHUB-FFDE59?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/Prasanthmax)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-4D96FF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/prasanth-shanmugam-b9b84b23b/)
+[![Email](https://img.shields.io/badge/EMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:prasanth727pdm@gmail.com)
 
-<p align="center">
+<br><br>
+
+![Visitors](https://komarev.com/ghpvc/?username=Prasanthmax&label=SYSTEM+VISITS&color=6BCB77&style=for-the-badge&labelColor=000000)
+
+<br><br>
+
 <sub><code>process exited with code 0</code> — thanks for stopping by.</sub>
-</p>
+
+</div>
