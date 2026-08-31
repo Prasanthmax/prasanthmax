@@ -1,143 +1,149 @@
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/header.gif" alt="Prasanth S - Matrix Header Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=33FF66&background=00000000&center=true&vCenter=true&width=600&lines=whoami+%3E+Prasanth+S;Full+Stack+%26+ML+Developer;status+%3D+building+in+public;burn+the+ships.+no+fallback." alt="Typing SVG: whoami > Prasanth S" />
-</p>
-
-<p align="center">
-  <strong>"IF YOU ARE SO SURE — BURN THE SHIPS."</strong><br>
-  <em>No fallback. No retreat. Just build.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Prasanthmax">
-    <img src="https://img.shields.io/badge/GitHub-0A0F0A?style=flat-square&logo=github&logoColor=33FF66" alt="GitHub Profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/prasanth-shanmugam-b9b84b23b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0F0A?style=flat-square&logo=linkedin&logoColor=33FF66" alt="LinkedIn Profile" />
-  </a>
-  <a href="mailto:prasanth727pdm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0F0A?style=flat-square&logo=gmail&logoColor=33FF66" alt="Email Direct" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=Prasanthmax&label=SYSTEM%20VISITS&color=33FF66&style=flat-square&labelColor=0A0F0A">
-    <img src="https://komarev.com/ghpvc/?username=Prasanthmax&label=SYSTEM%20VISITS&color=33FF66&style=flat-square&labelColor=0A0F0A" alt="System Visits" />
-  </a>
-</p>
-
----
-
-## 🎮 PLAYER STATUS & DOSSIER
-
 <div align="center">
 
-| Attribute | Details |
-|---|---|
-| 🧑‍💻 **Player** | **Prasanth S** |
-| 🛡️ **Class** | Solo Builder — Full Stack & Machine Learning Engineer |
-| 🏰 **Guild** | GateWay Solutions *(ML Intern)* |
-| ⚔️ **Playstyle** | End-to-end owner: from architectural design to shipping live code |
-| ⚡ **Special Trait** | Rapid technology adoption & zero-fallback execution |
-| 🎯 **Current Quest** | Landing Software Engineering / Data Analyst Role |
-| 📍 **Base** | India |
+<img width="100%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/header.gif" alt="Prasanth S" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=900&color=000000&background=FFDE59&center=true&vCenter=true&width=650&height=60&lines=WHOAMI+%3E+PRASANTH+S;FULL+STACK+%2B+ML+DEVELOPER;BURN+THE+SHIPS.+NO+FALLBACK." alt="Typing SVG" />
 
 </div>
 
 <br>
 
-<table align="center">
-<tr><td>
-
-```
-⚔️ SYSTEM CAPABILITIES & STAT SHEET
-
-Building End-to-End Systems   [███████████████████░]  MAXED
-Rapid Tech Stack Adoption     [███████████████████░]  MAXED
-DSA & Problem Solving         [█████████████████░░░]  HIGH (300+ LC)
-ML & Pipeline Engineering     [███████████████░░░░░]  SOLID
-Deep Math & ML Foundations    [███████████░░░░░░░░░]  LEVELING UP
-```
-
-</td></tr>
-</table>
-
----
-
-## 🌳 SKILL TREE & TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,nodejs,flask,fastapi,mysql,postgres,mongodb,c,cpp,java,linux,bash,git,docker&perline=10&theme=dark" alt="Skillicons Tech Stack" />
-</p>
-
-<br>
-
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td align="center">
 
-### 🌐 Frontend & Core Web
-- **Languages:** `JavaScript`, `TypeScript`, `HTML5`, `CSS3`
-- **Frameworks & UI:** `React`, `Tailwind CSS`, `Modern DOM APIs`
-
-### ⚙️ Backend & Machine Learning
-- **Backend:** `Python`, `Node.js`, `Flask`, `FastAPI`, `REST APIs`
-- **ML / AI:** `TensorFlow`, `scikit-learn`, `Pandas`, `NumPy`
-
-</td>
-<td valign="top" width="50%">
-
-### 🗄️ Databases & Systems
-- **Databases:** `MySQL`, `PostgreSQL`, `MongoDB`
-- **Systems & Languages:** `C`, `C++`, `Java`, `Linux`, `Bash`
-
-### 🔧 Tools & Workflow
-- **DevOps & Version:** `Git`, `GitHub`, `Docker`
-- **Analytics & API:** `Jupyter`, `Matplotlib`, `Postman`
+### "IF YOU ARE SO SURE — BURN THE SHIPS."
+**No fallback. No retreat. Just build.**
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 QUEST LOG — GITHUB STATS & METRICS
+## ▌ DEVELOPER PROFILE
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Prasanthmax&show_icons=true&hide_border=true&theme=matrix&count_private=true" alt="Prasanth S GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanthmax&layout=compact&hide_border=true&theme=matrix" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/NAME-PRASANTH_S-FF6B6B?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GOAL-SDE_%2F_ML_ENGINEER-4D96FF?style=for-the-badge&labelColor=000000" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-6BCB77?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STYLE-SOLO_BUILDER-FFDE59?style=for-the-badge&labelColor=000000" />
+</p>
+
+<br>
+
+## ▌ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,nodejs,flask,fastapi,mysql,postgres,mongodb,c,cpp,java,linux,bash,git,docker&perline=10" alt="Tech Stack" />
+</p>
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**🌐 FRONTEND**
+![HTML5](https://img.shields.io/badge/HTML5-FFDE59?style=for-the-badge&logo=html5&logoColor=000&labelColor=000)
+![CSS3](https://img.shields.io/badge/CSS3-FFDE59?style=for-the-badge&logo=css3&logoColor=000&labelColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDE59?style=for-the-badge&logo=javascript&logoColor=000&labelColor=000)
+![React](https://img.shields.io/badge/React-FFDE59?style=for-the-badge&logo=react&logoColor=000&labelColor=000)
+
+**⚙️ BACKEND & APIs**
+![Python](https://img.shields.io/badge/Python-4D96FF?style=for-the-badge&logo=python&logoColor=000&labelColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-4D96FF?style=for-the-badge&logo=nodedotjs&logoColor=000&labelColor=000)
+![Flask](https://img.shields.io/badge/Flask-4D96FF?style=for-the-badge&logo=flask&logoColor=000&labelColor=000)
+![FastAPI](https://img.shields.io/badge/FastAPI-4D96FF?style=for-the-badge&logo=fastapi&logoColor=000&labelColor=000)
+
+**🤖 ML / AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=000&labelColor=000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-FF6B6B?style=for-the-badge&logo=scikit-learn&logoColor=000&labelColor=000)
+![Pandas](https://img.shields.io/badge/Pandas-FF6B6B?style=for-the-badge&logo=pandas&logoColor=000&labelColor=000)
+![NumPy](https://img.shields.io/badge/NumPy-FF6B6B?style=for-the-badge&logo=numpy&logoColor=000&labelColor=000)
+
+</td>
+<td valign="top" width="50%">
+
+**🗄️ DATABASES**
+![MySQL](https://img.shields.io/badge/MySQL-6BCB77?style=for-the-badge&logo=mysql&logoColor=000&labelColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6BCB77?style=for-the-badge&logo=postgresql&logoColor=000&labelColor=000)
+
+**🐧 LANGUAGES & SYSTEMS**
+![C](https://img.shields.io/badge/C-FFDE59?style=for-the-badge&logo=c&logoColor=000&labelColor=000)
+![C++](https://img.shields.io/badge/C++-FFDE59?style=for-the-badge&logo=cplusplus&logoColor=000&labelColor=000)
+![Java](https://img.shields.io/badge/Java-FFDE59?style=for-the-badge&logo=openjdk&logoColor=000&labelColor=000)
+![Linux](https://img.shields.io/badge/Linux-FFDE59?style=for-the-badge&logo=linux&logoColor=000&labelColor=000)
+![Bash](https://img.shields.io/badge/Bash-FFDE59?style=for-the-badge&logo=gnubash&logoColor=000&labelColor=000)
+
+**📊 DATA & ANALYTICS**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4D96FF?style=for-the-badge&logo=python&logoColor=000&labelColor=000)
+![Jupyter](https://img.shields.io/badge/Jupyter-4D96FF?style=for-the-badge&logo=jupyter&logoColor=000&labelColor=000)
+
+**🔧 TOOLS**
+![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=000&labelColor=000)
+![GitHub](https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=000&labelColor=000)
+![Docker](https://img.shields.io/badge/Docker-FF6B6B?style=for-the-badge&logo=docker&logoColor=000&labelColor=000)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ▌ LIVE METRICS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prasanthmax&show_icons=true&count_private=true&hide_border=false&border_color=000000&border_radius=0&bg_color=FFDE59&title_color=000000&icon_color=000000&text_color=000000" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Prasanthmax&border=000000&background=FF6B6B&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000&border_radius=0" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Prasanthmax&hide_border=true&theme=matrix" alt="Contribution Streak Stats" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanthmax&layout=compact&hide_border=false&border_color=000000&border_radius=0&bg_color=4D96FF&title_color=000000&text_color=000000" />
 </p>
 
----
+<br>
 
-## 📈 ACTIVITY GRAPH & CONTRIBUTION TRAJECTORY
+## ▌ CONTRIBUTION GRAPH
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanthmax&bg_color=0A0F0A&color=33FF66&line=33FF66&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanthmax&bg_color=6BCB77&color=000000&line=000000&point=FFFFFF&area=true&hide_border=false&border_color=000000" />
 </p>
 
----
+<br>
 
-## 🚀 FEATURED BUILD & PROJECTS
-
-<details open>
-  <summary><strong>💡 Featured Project Showcase</strong></summary>
-  <br>
-
-| Project | Stack | Description |
-|---|---|---|
-| ⚡ **LeetCode Toast** | JavaScript, Extension APIs, CSS3 | Smart toast notification system for LeetCode practice flow. |
-| 🤖 **ML Pipeline & Predictive Models** | Python, TensorFlow, scikit-learn, FastAPI | End-to-end data processing and model deployment. |
-| 🌐 **Full-Stack Web Applications** | React, Node.js, Flask, PostgreSQL | Dynamic, scalable web platforms with crisp UI/UX. |
-
-</details>
-
----
+## ▌ CONTRIBUTION SNAKE
 
 <p align="center">
-  <sub><code>process exited with code 0</code> — Thanks for visiting. Let's connect and build!</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+<br>
+
+## ▌ CONNECT
+
+<p align="center">
+  <a href="https://github.com/Prasanthmax">
+    <img src="https://img.shields.io/badge/GITHUB-FFDE59?style=for-the-badge&logo=github&logoColor=000&labelColor=000" />
+  </a>
+  <a href="https://www.linkedin.com/in/prasanth-shanmugam-b9b84b23b/">
+    <img src="https://img.shields.io/badge/LINKEDIN-4D96FF?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=000" />
+  </a>
+  <a href="mailto:prasanth727pdm@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=000&labelColor=000" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prasanthmax&label=SYSTEM+VISITS&color=6BCB77&style=for-the-badge&labelColor=000000" />
+</p>
+
+<p align="center">
+<sub><code>process exited with code 0</code> — thanks for stopping by.</sub>
 </p>
