@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FFB86C&center=true&vCenter=true&width=650&height=50&lines=WHOAMI+%3E+PRASANTH+S;FULL[...]
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FFB86C&center=true&vCenter=true&width=650&height=50&lines=WHOAMI+%3E+PRASANTH+S;FULL+STACK+%2B+ML+DEVELOPER;STATUS+%3D+SHIPPING+PRODUCTION+CODE." alt="Typing SVG" />
 
 <br/>
 
@@ -75,7 +75,7 @@ prasanth@linux:~$ _
 
 <br>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td valign="top" width="50%">
 
@@ -137,13 +137,17 @@ prasanth@linux:~$ _
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="GitHub Stats" style="width:49%;height:220px;object-fit:contain;" loading="lazy" />
-<img src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="Top Languages" style="width:49%;height:220px;object-fit:contain;" loading="lazy" />
+<img width="98.5%"  src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+<br>
+<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
 
-<br><br>
+<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
 
-<img src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="Profile Details" style="width:49%;height:220px;object-fit:contain;" loading="lazy" />
-<img src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="Productive Time" style="width:49%;height:220px;object-fit:contain;" loading="lazy" />
+<br>
+
+<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" />
+
+<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
 
 </div>
 
