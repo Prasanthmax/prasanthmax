@@ -137,8 +137,8 @@ prasanth@linux:~$ _
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-cards/stats.svg" alt="GitHub Stats" />
-<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-cards/languages.svg" alt="Top Languages" />
+<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/default/stats.svg" alt="GitHub Stats" />
+<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/default/repos-per-language.svg" alt="Top Languages" />
 
 </div>
 
@@ -148,7 +148,7 @@ prasanth@linux:~$ _
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-cards/activity-graph.svg" alt="Contribution Activity" />
+<img width="100%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/default/activity-graph.svg" alt="Contribution Activity" />
 
 <br><br>
 
