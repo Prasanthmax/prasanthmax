@@ -1,0 +1,23 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:       # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          github_user: Prasanthmax
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin: stats, languages, activity
+          plugin_activity_days: 61
