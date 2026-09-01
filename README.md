@@ -137,8 +137,13 @@ prasanth@linux:~$ _
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/default/stats.svg" alt="GitHub Stats" />
-<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/default/repos-per-language.svg" alt="Top Languages" />
+<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="GitHub Stats" />
+<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="Top Languages" />
+
+<br><br>
+
+<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="Profile Details" />
+<img width="49%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="Productive Time" />
 
 </div>
 
@@ -147,10 +152,6 @@ prasanth@linux:~$ _
 ## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/main/profile-summary-card-output/default/activity-graph.svg" alt="Contribution Activity" />
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prasanthmax/Prasanthmax/output/github-contribution-grid-snake-dark.svg">
